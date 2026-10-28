@@ -18,6 +18,5 @@ B.Tech Undergraduate | Full-Stack Developer 💻  <br>Building at the intersecti
 ---
 [![](https://komarev.com/ghpvc/?username=rakshak7879-bit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-**rakshak7879-bit/rakshak7879-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
