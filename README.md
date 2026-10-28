@@ -1,6 +1,7 @@
 
 
- 💫 About Me:
+  About Me:
+  
 B.Tech Undergraduate | Full-Stack Developer 💻  <br>Building at the intersection of technology & creativity.  <br>Entrepreneurship • AI • Creative Services 🚀
 
 
